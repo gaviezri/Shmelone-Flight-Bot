@@ -1,0 +1,7 @@
+{
+    "telegram_bot_token": "BOT_TOKEN_HERE",
+    "telegram_chat_id": "CHAT_ID_HERE",
+    "airlabs_api_key": "AIRLABS_API_KEY_HERE",
+    "check_interval_seconds": 7200,
+    "departure_airports": ["TLV", "VDA", "ETH", "RPN", "HFA"]
+}
