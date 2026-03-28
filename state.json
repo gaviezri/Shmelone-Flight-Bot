@@ -1,0 +1,3095 @@
+{
+  "IZ": {
+    "initialized": true,
+    "routes": {
+      "IZ511_07:55_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "511",
+        "flight_iata": "IZ511",
+        "flight_icao": "AIZ511",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "511",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "07:55",
+        "dep_time_utc": "05:55",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": null,
+        "arr_time": "12:10",
+        "arr_time_utc": "11:10",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 3871,
+        "updated": "2026-03-13T12:59:51.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ511_10:10_mon": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "511",
+        "flight_iata": "IZ511",
+        "flight_icao": "AIZ511",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL511",
+        "cs_flight_number": "511",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:10",
+        "dep_time_utc": "08:10",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": null,
+        "arr_time": "14:20",
+        "arr_time_utc": "13:20",
+        "duration": 310,
+        "aircraft_icao": null,
+        "counter": 785,
+        "updated": "2026-03-09T14:59:33.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "IZ211_08:20_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "211",
+        "flight_iata": "IZ211",
+        "flight_icao": "AIZ211",
+        "cs_airline_iata": "Y9",
+        "cs_flight_iata": "Y9211",
+        "cs_flight_number": "211",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "08:20",
+        "dep_time_utc": "06:20",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "10:30",
+        "arr_time_utc": "08:30",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 18790,
+        "updated": "2026-03-14T10:01:34.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "IZ213_16:20_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "213",
+        "flight_iata": "IZ213",
+        "flight_icao": "AIZ213",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "213",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:20",
+        "dep_time_utc": "14:20",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "18:30",
+        "arr_time_utc": "16:30",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 17491,
+        "updated": "2026-03-14T18:01:26.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "IZ215_06:50_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "215",
+        "flight_iata": "IZ215",
+        "flight_icao": "AIZ215",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:50",
+        "dep_time_utc": "04:50",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "09:00",
+        "arr_time_utc": "07:00",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 679,
+        "updated": "2026-03-08T10:59:48.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ271_15:20_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "271",
+        "flight_iata": "IZ271",
+        "flight_icao": "AIZ271",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:20",
+        "dep_time_utc": "13:20",
+        "arr_iata": "BCN",
+        "arr_icao": "LEBL",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "19:00",
+        "arr_time_utc": "18:00",
+        "duration": 280,
+        "aircraft_icao": null,
+        "counter": 3386,
+        "updated": "2026-03-12T19:59:56.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ271_15:25_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "271",
+        "flight_iata": "IZ271",
+        "flight_icao": "AIZ271",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:25",
+        "dep_time_utc": "13:25",
+        "arr_iata": "BCN",
+        "arr_icao": "LEBL",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "19:05",
+        "arr_time_utc": "18:05",
+        "duration": 280,
+        "aircraft_icao": null,
+        "counter": 701,
+        "updated": "2026-03-05T19:59:59.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ591_00:05_mon_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "591",
+        "flight_iata": "IZ591",
+        "flight_icao": "AIZ591",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:05",
+        "dep_time_utc": "22:05",
+        "arr_iata": "BKK",
+        "arr_icao": "VTBS",
+        "arr_terminals": null,
+        "arr_time": "16:55",
+        "arr_time_utc": "09:55",
+        "duration": 710,
+        "aircraft_icao": null,
+        "counter": 8166,
+        "updated": "2026-03-11T10:59:19.000Z",
+        "days": [
+          "mon",
+          "wed"
+        ]
+      },
+      "IZ591_10:35_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "591",
+        "flight_iata": "IZ591",
+        "flight_icao": "AIZ591",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:35",
+        "dep_time_utc": "08:35",
+        "arr_iata": "BKK",
+        "arr_icao": "VTBS",
+        "arr_terminals": null,
+        "arr_time": "03:25",
+        "arr_time_utc": "20:25",
+        "duration": 710,
+        "aircraft_icao": null,
+        "counter": 1019,
+        "updated": "2026-03-13T21:58:59.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ291_09:50_fri_mon": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "291",
+        "flight_iata": "IZ291",
+        "flight_icao": "AIZ291",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "09:50",
+        "dep_time_utc": "07:50",
+        "arr_iata": "BUD",
+        "arr_icao": "LHBP",
+        "arr_terminals": [
+          "2B"
+        ],
+        "arr_time": "12:25",
+        "arr_time_utc": "11:25",
+        "duration": 215,
+        "aircraft_icao": null,
+        "counter": 2088,
+        "updated": "2026-03-13T12:59:54.000Z",
+        "days": [
+          "fri",
+          "mon"
+        ]
+      },
+      "IZ291_10:25_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "291",
+        "flight_iata": "IZ291",
+        "flight_icao": "AIZ291",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:25",
+        "dep_time_utc": "08:25",
+        "arr_iata": "BUD",
+        "arr_icao": "LHBP",
+        "arr_terminals": [
+          "2B"
+        ],
+        "arr_time": "13:10",
+        "arr_time_utc": "12:10",
+        "duration": 225,
+        "aircraft_icao": null,
+        "counter": 410,
+        "updated": "2026-03-12T15:01:12.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ291_10:30_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "291",
+        "flight_iata": "IZ291",
+        "flight_icao": "AIZ291",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:30",
+        "dep_time_utc": "08:30",
+        "arr_iata": "BUD",
+        "arr_icao": "LHBP",
+        "arr_terminals": [
+          "2B"
+        ],
+        "arr_time": "13:10",
+        "arr_time_utc": "12:10",
+        "duration": 220,
+        "aircraft_icao": null,
+        "counter": 6978,
+        "updated": "2026-03-08T14:00:04.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ413_05:45_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "413",
+        "flight_iata": "IZ413",
+        "flight_icao": "AIZ413",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "413",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "05:45",
+        "dep_time_utc": "03:45",
+        "arr_iata": "BUS",
+        "arr_icao": "UGSB",
+        "arr_terminals": null,
+        "arr_time": "10:00",
+        "arr_time_utc": "06:00",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 3381,
+        "updated": "2026-03-08T07:59:38.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ413_07:45_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "413",
+        "flight_iata": "IZ413",
+        "flight_icao": "AIZ413",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "413",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "07:45",
+        "dep_time_utc": "05:45",
+        "arr_iata": "BUS",
+        "arr_icao": "UGSB",
+        "arr_terminals": null,
+        "arr_time": "12:00",
+        "arr_time_utc": "08:00",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 7412,
+        "updated": "2026-03-13T10:01:35.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ413_09:30_sat_thu_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "413",
+        "flight_iata": "IZ413",
+        "flight_icao": "AIZ413",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "413",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "09:30",
+        "dep_time_utc": "07:30",
+        "arr_iata": "BUS",
+        "arr_icao": "UGSB",
+        "arr_terminals": null,
+        "arr_time": "13:45",
+        "arr_time_utc": "09:45",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 8866,
+        "updated": "2026-03-12T11:00:36.000Z",
+        "days": [
+          "sat",
+          "thu",
+          "wed"
+        ]
+      },
+      "IZ413_11:50_mon": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "413",
+        "flight_iata": "IZ413",
+        "flight_icao": "AIZ413",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "413",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "11:50",
+        "dep_time_utc": "09:50",
+        "arr_iata": "BUS",
+        "arr_icao": "UGSB",
+        "arr_terminals": null,
+        "arr_time": "16:05",
+        "arr_time_utc": "12:05",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 3371,
+        "updated": "2026-03-09T13:59:47.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "IZ741_10:30_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "741",
+        "flight_iata": "IZ741",
+        "flight_icao": "AIZ741",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:30",
+        "dep_time_utc": "08:30",
+        "arr_iata": "CDG",
+        "arr_icao": "LFPG",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "14:30",
+        "arr_time_utc": "13:30",
+        "duration": 300,
+        "aircraft_icao": null,
+        "counter": 51503,
+        "updated": "2026-03-12T14:59:02.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ741_17:15_mon_thu_tue_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "741",
+        "flight_iata": "IZ741",
+        "flight_icao": "AIZ741",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "17:15",
+        "dep_time_utc": "15:15",
+        "arr_iata": "CDG",
+        "arr_icao": "LFPG",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "21:15",
+        "arr_time_utc": "20:15",
+        "duration": 300,
+        "aircraft_icao": null,
+        "counter": 1199,
+        "updated": "2026-03-26T22:00:49.000Z",
+        "days": [
+          "mon",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "IZ741_18:15_fri_sat": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "741",
+        "flight_iata": "IZ741",
+        "flight_icao": "AIZ741",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "18:15",
+        "dep_time_utc": "15:15",
+        "arr_iata": "CDG",
+        "arr_icao": "LFPG",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "21:15",
+        "arr_time_utc": "20:15",
+        "duration": 300,
+        "aircraft_icao": null,
+        "counter": 2171,
+        "updated": "2026-03-28T11:57:08.000Z",
+        "days": [
+          "fri",
+          "sat"
+        ]
+      },
+      "IZ743_11:00_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "743",
+        "flight_iata": "IZ743",
+        "flight_icao": "AIZ743",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "11:00",
+        "dep_time_utc": "08:00",
+        "arr_iata": "CDG",
+        "arr_icao": "LFPG",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "14:00",
+        "arr_time_utc": "13:00",
+        "duration": 300,
+        "aircraft_icao": null,
+        "counter": 363,
+        "updated": "2026-03-27T14:59:28.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ743_15:00_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "743",
+        "flight_iata": "IZ743",
+        "flight_icao": "AIZ743",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:00",
+        "dep_time_utc": "13:00",
+        "arr_iata": "CDG",
+        "arr_icao": "LFPG",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "19:00",
+        "arr_time_utc": "18:00",
+        "duration": 300,
+        "aircraft_icao": null,
+        "counter": 3319,
+        "updated": "2026-03-08T19:58:49.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ601_08:20_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "601",
+        "flight_iata": "IZ601",
+        "flight_icao": "AIZ601",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "08:20",
+        "dep_time_utc": "06:20",
+        "arr_iata": "DXB",
+        "arr_icao": "OMDB",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "13:30",
+        "arr_time_utc": "09:30",
+        "duration": 190,
+        "aircraft_icao": null,
+        "counter": 364,
+        "updated": "2026-03-12T11:00:38.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ601_16:15_sat": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "601",
+        "flight_iata": "IZ601",
+        "flight_icao": "AIZ601",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:15",
+        "dep_time_utc": "14:15",
+        "arr_iata": "DXB",
+        "arr_icao": "OMDB",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "21:25",
+        "arr_time_utc": "17:25",
+        "duration": 190,
+        "aircraft_icao": null,
+        "counter": 2042,
+        "updated": "2026-03-14T19:00:44.000Z",
+        "days": [
+          "sat"
+        ]
+      },
+      "IZ603_06:15_fri_mon_sun_thu_tue_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "603",
+        "flight_iata": "IZ603",
+        "flight_icao": "AIZ603",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:15",
+        "dep_time_utc": "04:15",
+        "arr_iata": "DXB",
+        "arr_icao": "OMDB",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "11:30",
+        "arr_time_utc": "07:30",
+        "duration": 195,
+        "aircraft_icao": null,
+        "counter": 24958,
+        "updated": "2026-03-13T09:00:04.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "IZ605_16:15_mon_sun_thu_tue_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "605",
+        "flight_iata": "IZ605",
+        "flight_icao": "AIZ605",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:15",
+        "dep_time_utc": "14:15",
+        "arr_iata": "DXB",
+        "arr_icao": "OMDB",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "21:25",
+        "arr_time_utc": "17:25",
+        "duration": 190,
+        "aircraft_icao": null,
+        "counter": 25901,
+        "updated": "2026-03-12T19:00:44.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "IZ335_11:55_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "335",
+        "flight_iata": "IZ335",
+        "flight_icao": "AIZ335",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "11:55",
+        "dep_time_utc": "09:55",
+        "arr_iata": "FCO",
+        "arr_icao": "LIRF",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "14:35",
+        "arr_time_utc": "13:35",
+        "duration": 220,
+        "aircraft_icao": null,
+        "counter": 1124,
+        "updated": "2026-03-12T14:59:01.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ321_13:50_sat_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "321",
+        "flight_iata": "IZ321",
+        "flight_icao": "AIZ321",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "13:50",
+        "dep_time_utc": "11:50",
+        "arr_iata": "GYD",
+        "arr_icao": "UBBB",
+        "arr_terminals": [
+          "1",
+          "T2 NORTH"
+        ],
+        "arr_time": "19:00",
+        "arr_time_utc": "15:00",
+        "duration": 190,
+        "aircraft_icao": null,
+        "counter": 6204,
+        "updated": "2026-03-14T17:00:37.000Z",
+        "days": [
+          "sat",
+          "wed"
+        ]
+      },
+      "IZ321_15:25_tue": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "321",
+        "flight_iata": "IZ321",
+        "flight_icao": "AIZ321",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:25",
+        "dep_time_utc": "13:25",
+        "arr_iata": "GYD",
+        "arr_icao": "UBBB",
+        "arr_terminals": [
+          "1",
+          "T2 NORTH"
+        ],
+        "arr_time": "20:35",
+        "arr_time_utc": "16:35",
+        "duration": 190,
+        "aircraft_icao": null,
+        "counter": 3727,
+        "updated": "2026-03-11T17:59:25.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "IZ595_00:05_mon": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "595",
+        "flight_iata": "IZ595",
+        "flight_icao": "AIZ595",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:05",
+        "dep_time_utc": "22:05",
+        "arr_iata": "HAN",
+        "arr_icao": "VVNB",
+        "arr_terminals": [
+          "T2"
+        ],
+        "arr_time": "16:40",
+        "arr_time_utc": "09:40",
+        "duration": 695,
+        "aircraft_icao": null,
+        "counter": 5283,
+        "updated": "2026-03-09T10:59:03.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "IZ595_06:15_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "595",
+        "flight_iata": "IZ595",
+        "flight_icao": "AIZ595",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:15",
+        "dep_time_utc": "04:15",
+        "arr_iata": "HAN",
+        "arr_icao": "VVNB",
+        "arr_terminals": [
+          "T2"
+        ],
+        "arr_time": "22:50",
+        "arr_time_utc": "15:50",
+        "duration": 695,
+        "aircraft_icao": null,
+        "counter": 1035,
+        "updated": "2026-03-12T17:00:52.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ991_00:05_sun_thu_tue": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "991",
+        "flight_iata": "IZ991",
+        "flight_icao": "AIZ991",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:05",
+        "dep_time_utc": "22:05",
+        "arr_iata": "JFK",
+        "arr_icao": "KJFK",
+        "arr_terminals": [
+          "4"
+        ],
+        "arr_time": "06:45",
+        "arr_time_utc": "10:45",
+        "duration": 760,
+        "aircraft_icao": null,
+        "counter": 30507,
+        "updated": "2026-03-22T12:00:06.000Z",
+        "days": [
+          "sun",
+          "thu",
+          "tue"
+        ]
+      },
+      "IZ161_08:10_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "161",
+        "flight_iata": "IZ161",
+        "flight_icao": "AIZ161",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL161",
+        "cs_flight_number": "161",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "08:10",
+        "dep_time_utc": "06:10",
+        "arr_iata": "LCA",
+        "arr_icao": "LCLK",
+        "arr_terminals": null,
+        "arr_time": "09:10",
+        "arr_time_utc": "07:10",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 2376,
+        "updated": "2026-03-13T09:00:08.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ161_08:55_mon_thu_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "161",
+        "flight_iata": "IZ161",
+        "flight_icao": "AIZ161",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "08:55",
+        "dep_time_utc": "06:55",
+        "arr_iata": "LCA",
+        "arr_icao": "LCLK",
+        "arr_terminals": null,
+        "arr_time": "09:55",
+        "arr_time_utc": "07:55",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 11495,
+        "updated": "2026-03-12T08:58:56.000Z",
+        "days": [
+          "mon",
+          "thu",
+          "wed"
+        ]
+      },
+      "IZ161_09:00_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "161",
+        "flight_iata": "IZ161",
+        "flight_icao": "AIZ161",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "09:00",
+        "dep_time_utc": "07:00",
+        "arr_iata": "LCA",
+        "arr_icao": "LCLK",
+        "arr_terminals": null,
+        "arr_time": "10:00",
+        "arr_time_utc": "08:00",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 7997,
+        "updated": "2026-03-08T09:59:50.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ165_20:30_sat": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "165",
+        "flight_iata": "IZ165",
+        "flight_icao": "AIZ165",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "20:30",
+        "dep_time_utc": "18:30",
+        "arr_iata": "LCA",
+        "arr_icao": "LCLK",
+        "arr_terminals": null,
+        "arr_time": "21:30",
+        "arr_time_utc": "19:30",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 2397,
+        "updated": "2026-03-14T20:59:37.000Z",
+        "days": [
+          "sat"
+        ]
+      },
+      "IZ253_10:25_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "253",
+        "flight_iata": "IZ253",
+        "flight_icao": "AIZ253",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:25",
+        "dep_time_utc": "08:25",
+        "arr_iata": "LIS",
+        "arr_icao": "LPPT",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "14:15",
+        "arr_time_utc": "14:15",
+        "duration": 350,
+        "aircraft_icao": null,
+        "counter": 2477,
+        "updated": "2026-03-13T15:59:55.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ253_17:20_mon": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "253",
+        "flight_iata": "IZ253",
+        "flight_icao": "AIZ253",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "17:20",
+        "dep_time_utc": "15:20",
+        "arr_iata": "LIS",
+        "arr_icao": "LPPT",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "21:05",
+        "arr_time_utc": "21:05",
+        "duration": 345,
+        "aircraft_icao": null,
+        "counter": 5537,
+        "updated": "2026-03-09T22:59:58.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "IZ337_07:35_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "337",
+        "flight_iata": "IZ337",
+        "flight_icao": "AIZ337",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL337",
+        "cs_flight_number": "337",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "07:35",
+        "dep_time_utc": "05:35",
+        "arr_iata": "MXP",
+        "arr_icao": "LIMC",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "10:45",
+        "arr_time_utc": "09:45",
+        "duration": 250,
+        "aircraft_icao": null,
+        "counter": 380,
+        "updated": "2026-03-08T10:59:56.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ151_12:25_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "151",
+        "flight_iata": "IZ151",
+        "flight_icao": "AIZ151",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL151",
+        "cs_flight_number": "151",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "12:25",
+        "dep_time_utc": "10:25",
+        "arr_iata": "PFO",
+        "arr_icao": "LCPH",
+        "arr_terminals": null,
+        "arr_time": "13:25",
+        "arr_time_utc": "11:25",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 881,
+        "updated": "2026-03-13T13:00:00.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ151_13:55_sun_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "151",
+        "flight_iata": "IZ151",
+        "flight_icao": "AIZ151",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL151",
+        "cs_flight_number": "151",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "13:55",
+        "dep_time_utc": "11:55",
+        "arr_iata": "PFO",
+        "arr_icao": "LCPH",
+        "arr_terminals": null,
+        "arr_time": "14:55",
+        "arr_time_utc": "12:55",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 7013,
+        "updated": "2026-03-12T14:00:49.000Z",
+        "days": [
+          "sun",
+          "thu"
+        ]
+      },
+      "IZ153_13:00_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "153",
+        "flight_iata": "IZ153",
+        "flight_icao": "AIZ153",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL153",
+        "cs_flight_number": "153",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "13:00",
+        "dep_time_utc": "11:00",
+        "arr_iata": "PFO",
+        "arr_icao": "LCPH",
+        "arr_terminals": null,
+        "arr_time": "14:00",
+        "arr_time_utc": "12:00",
+        "duration": 60,
+        "aircraft_icao": null,
+        "counter": 937,
+        "updated": "2026-03-11T13:58:52.000Z",
+        "days": [
+          "wed"
+        ]
+      },
+      "IZ281_09:55_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "281",
+        "flight_iata": "IZ281",
+        "flight_icao": "AIZ281",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "281",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "09:55",
+        "dep_time_utc": "07:55",
+        "arr_iata": "PRG",
+        "arr_icao": "LKPR",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "13:00",
+        "arr_time_utc": "12:00",
+        "duration": 245,
+        "aircraft_icao": null,
+        "counter": 765,
+        "updated": "2026-03-12T14:00:49.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "IZ281_10:30_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "281",
+        "flight_iata": "IZ281",
+        "flight_icao": "AIZ281",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "281",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:30",
+        "dep_time_utc": "08:30",
+        "arr_iata": "PRG",
+        "arr_icao": "LKPR",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "13:30",
+        "arr_time_utc": "12:30",
+        "duration": 240,
+        "aircraft_icao": null,
+        "counter": 3247,
+        "updated": "2026-03-13T13:58:34.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ281_18:05_sun": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "281",
+        "flight_iata": "IZ281",
+        "flight_icao": "AIZ281",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL281",
+        "cs_flight_number": "281",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "18:05",
+        "dep_time_utc": "16:05",
+        "arr_iata": "PRG",
+        "arr_icao": "LKPR",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "21:00",
+        "arr_time_utc": "20:00",
+        "duration": 235,
+        "aircraft_icao": null,
+        "counter": 397,
+        "updated": "2026-03-08T21:59:06.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "IZ283_17:00_sat_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "283",
+        "flight_iata": "IZ283",
+        "flight_icao": "AIZ283",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "283",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "17:00",
+        "dep_time_utc": "15:00",
+        "arr_iata": "PRG",
+        "arr_icao": "LKPR",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "20:00",
+        "arr_time_utc": "19:00",
+        "duration": 240,
+        "aircraft_icao": null,
+        "counter": 2523,
+        "updated": "2026-03-12T11:00:43.000Z",
+        "days": [
+          "sat",
+          "wed"
+        ]
+      },
+      "IZ223_13:15_sun_thu": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "223",
+        "flight_iata": "IZ223",
+        "flight_icao": "AIZ223",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": null,
+        "dep_time": "13:15",
+        "dep_time_utc": "11:15",
+        "arr_iata": "SKG",
+        "arr_icao": "LGTS",
+        "arr_terminals": null,
+        "arr_time": "15:40",
+        "arr_time_utc": "13:40",
+        "duration": 145,
+        "aircraft_icao": null,
+        "counter": 6967,
+        "updated": "2026-03-12T14:59:03.000Z",
+        "days": [
+          "sun",
+          "thu"
+        ]
+      },
+      "IZ363_13:40_mon_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "363",
+        "flight_iata": "IZ363",
+        "flight_icao": "AIZ363",
+        "cs_airline_iata": "FL",
+        "cs_flight_iata": "FL363",
+        "cs_flight_number": "363",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "1"
+        ],
+        "dep_time": "13:40",
+        "dep_time_utc": "11:40",
+        "arr_iata": "SOF",
+        "arr_icao": "LBSF",
+        "arr_terminals": null,
+        "arr_time": "16:30",
+        "arr_time_utc": "14:30",
+        "duration": 170,
+        "aircraft_icao": null,
+        "counter": 6385,
+        "updated": "2026-03-11T18:59:27.000Z",
+        "days": [
+          "mon",
+          "wed"
+        ]
+      },
+      "IZ365_09:30_fri": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "365",
+        "flight_iata": "IZ365",
+        "flight_icao": "AIZ365",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "09:30",
+        "dep_time_utc": "07:30",
+        "arr_iata": "SOF",
+        "arr_icao": "LBSF",
+        "arr_terminals": null,
+        "arr_time": "12:20",
+        "arr_time_utc": "10:20",
+        "duration": 170,
+        "aircraft_icao": null,
+        "counter": 344,
+        "updated": "2026-03-13T12:00:38.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "IZ911_10:30_mon_sun_wed": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "911",
+        "flight_iata": "IZ911",
+        "flight_icao": "AIZ911",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "911",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:30",
+        "dep_time_utc": "08:30",
+        "arr_iata": "STN",
+        "arr_icao": "EGSS",
+        "arr_terminals": [
+          "1"
+        ],
+        "arr_time": "13:55",
+        "arr_time_utc": "13:55",
+        "duration": 325,
+        "aircraft_icao": null,
+        "counter": 21062,
+        "updated": "2026-03-12T14:59:02.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "wed"
+        ]
+      },
+      "IZ911_16:55_thu_tue": {
+        "airline_iata": "IZ",
+        "airline_icao": "AIZ",
+        "flight_number": "911",
+        "flight_iata": "IZ911",
+        "flight_icao": "AIZ911",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": "911",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:55",
+        "dep_time_utc": "14:55",
+        "arr_iata": "STN",
+        "arr_icao": "EGSS",
+        "arr_terminals": null,
+        "arr_time": "20:20",
+        "arr_time_utc": "20:20",
+        "duration": 325,
+        "aircraft_icao": null,
+        "counter": 638,
+        "updated": "2026-03-26T22:00:47.000Z",
+        "days": [
+          "thu",
+          "tue"
+        ]
+      }
+    }
+  },
+  "LY": {
+    "initialized": true,
+    "routes": {
+      "LY8805_09:00_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "8805",
+        "flight_iata": "LY8805",
+        "flight_icao": "ELY8805",
+        "cs_airline_iata": "ET",
+        "cs_flight_iata": "ET415",
+        "cs_flight_number": "415",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "09:00",
+        "dep_time_utc": "07:00",
+        "arr_iata": "ADD",
+        "arr_icao": "HAAB",
+        "arr_terminals": [
+          "2"
+        ],
+        "arr_time": "14:15",
+        "arr_time_utc": "11:15",
+        "duration": 255,
+        "aircraft_icao": null,
+        "counter": 49370,
+        "updated": "2026-03-13T12:59:57.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY8807_00:45_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "8807",
+        "flight_iata": "LY8807",
+        "flight_icao": "ELY8807",
+        "cs_airline_iata": "ET",
+        "cs_flight_iata": "ET405",
+        "cs_flight_number": "405",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:45",
+        "dep_time_utc": "22:45",
+        "arr_iata": "ADD",
+        "arr_icao": "HAAB",
+        "arr_terminals": [
+          "2"
+        ],
+        "arr_time": "06:00",
+        "arr_time_utc": "03:00",
+        "duration": 255,
+        "aircraft_icao": null,
+        "counter": 48456,
+        "updated": "2026-03-13T05:01:56.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY8809_14:40_sat_sun_thu_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "8809",
+        "flight_iata": "LY8809",
+        "flight_icao": "ELY8809",
+        "cs_airline_iata": "ET",
+        "cs_flight_iata": "ET419",
+        "cs_flight_number": "419",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "14:40",
+        "dep_time_utc": "12:40",
+        "arr_iata": "ADD",
+        "arr_icao": "HAAB",
+        "arr_terminals": [
+          "2"
+        ],
+        "arr_time": "19:55",
+        "arr_time_utc": "16:55",
+        "duration": 255,
+        "aircraft_icao": null,
+        "counter": 27067,
+        "updated": "2026-03-12T18:01:55.000Z",
+        "days": [
+          "sat",
+          "sun",
+          "thu",
+          "tue"
+        ]
+      },
+      "LY337_03:50_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "337",
+        "flight_iata": "LY337",
+        "flight_icao": "ELY337",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "03:50",
+        "dep_time_utc": "01:50",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "08:05",
+        "arr_time_utc": "07:05",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 19587,
+        "updated": "2026-03-06T09:02:04.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY337_06:00_mon_sun_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "337",
+        "flight_iata": "LY337",
+        "flight_icao": "ELY337",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:00",
+        "dep_time_utc": "04:00",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "10:15",
+        "arr_time_utc": "09:15",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 64347,
+        "updated": "2026-03-23T11:01:57.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "thu"
+        ]
+      },
+      "LY337_06:05_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "337",
+        "flight_iata": "LY337",
+        "flight_icao": "ELY337",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:05",
+        "dep_time_utc": "04:05",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "10:20",
+        "arr_time_utc": "09:20",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 61512,
+        "updated": "2026-03-11T11:01:34.000Z",
+        "days": [
+          "tue",
+          "wed"
+        ]
+      },
+      "LY339_16:05_mon_sun_thu_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "339",
+        "flight_iata": "LY339",
+        "flight_icao": "ELY339",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:05",
+        "dep_time_utc": "14:05",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": [
+          "3"
+        ],
+        "arr_time": "20:20",
+        "arr_time_utc": "19:20",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 81143,
+        "updated": "2026-03-23T21:00:48.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "thu",
+          "wed"
+        ]
+      },
+      "LY437_04:00_mon": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "437",
+        "flight_iata": "LY437",
+        "flight_icao": "ELY437",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "04:00",
+        "dep_time_utc": "02:00",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": null,
+        "arr_time": "08:15",
+        "arr_time_utc": "07:15",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 399,
+        "updated": "2026-03-16T10:01:34.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "LY437_04:20_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "437",
+        "flight_iata": "LY437",
+        "flight_icao": "ELY437",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "04:20",
+        "dep_time_utc": "02:20",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": null,
+        "arr_time": "08:35",
+        "arr_time_utc": "07:35",
+        "duration": 315,
+        "aircraft_icao": null,
+        "counter": 408,
+        "updated": "2026-03-12T09:01:28.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "LY439_08:50_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "439",
+        "flight_iata": "LY439",
+        "flight_icao": "ELY439",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "08:50",
+        "dep_time_utc": "06:50",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": null,
+        "arr_time": "11:35",
+        "arr_time_utc": "10:35",
+        "duration": 225,
+        "aircraft_icao": null,
+        "counter": 136,
+        "updated": "2026-03-17T12:00:32.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "LY8857_17:00_fri_sat_thu_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "8857",
+        "flight_iata": "LY8857",
+        "flight_icao": "ELY8857",
+        "cs_airline_iata": "KL",
+        "cs_flight_iata": "KL464",
+        "cs_flight_number": "464",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "17:00",
+        "dep_time_utc": "15:00",
+        "arr_iata": "AMS",
+        "arr_icao": "EHAM",
+        "arr_terminals": [
+          "2"
+        ],
+        "arr_time": "21:05",
+        "arr_time_utc": "20:05",
+        "duration": 305,
+        "aircraft_icao": null,
+        "counter": 1356,
+        "updated": "2026-02-28T22:01:32.000Z",
+        "days": [
+          "fri",
+          "sat",
+          "thu",
+          "wed"
+        ]
+      },
+      "LY441_02:10_mon_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "441",
+        "flight_iata": "LY441",
+        "flight_icao": "ELY441",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "02:10",
+        "dep_time_utc": "00:10",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "04:25",
+        "arr_time_utc": "02:25",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 596,
+        "updated": "2026-03-19T04:08:20.000Z",
+        "days": [
+          "mon",
+          "thu"
+        ]
+      },
+      "LY441_03:55_sun": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "441",
+        "flight_iata": "LY441",
+        "flight_icao": "ELY441",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "03:55",
+        "dep_time_utc": "01:55",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "06:10",
+        "arr_time_utc": "04:10",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 57,
+        "updated": "2026-03-22T06:01:31.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "LY441_04:00_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "441",
+        "flight_iata": "LY441",
+        "flight_icao": "ELY441",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "04:00",
+        "dep_time_utc": "01:00",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "05:15",
+        "arr_time_utc": "03:15",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 283,
+        "updated": "2026-03-27T05:02:22.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY441_05:00_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "441",
+        "flight_iata": "LY441",
+        "flight_icao": "ELY441",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "05:00",
+        "dep_time_utc": "03:00",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "07:15",
+        "arr_time_utc": "05:15",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 275,
+        "updated": "2026-03-25T07:01:55.000Z",
+        "days": [
+          "wed"
+        ]
+      },
+      "LY441_16:00_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "441",
+        "flight_iata": "LY441",
+        "flight_icao": "ELY441",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "16:00",
+        "dep_time_utc": "14:00",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "18:15",
+        "arr_time_utc": "16:15",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 335,
+        "updated": "2026-03-24T18:01:26.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "LY443_00:40_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "443",
+        "flight_iata": "LY443",
+        "flight_icao": "ELY443",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:40",
+        "dep_time_utc": "22:40",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "02:55",
+        "arr_time_utc": "00:55",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 69,
+        "updated": "2026-03-20T02:01:13.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY443_06:30_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "443",
+        "flight_iata": "LY443",
+        "flight_icao": "ELY443",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:30",
+        "dep_time_utc": "04:30",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "08:45",
+        "arr_time_utc": "06:45",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 262,
+        "updated": "2026-03-24T08:00:14.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "LY443_18:05_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "443",
+        "flight_iata": "LY443",
+        "flight_icao": "ELY443",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "18:05",
+        "dep_time_utc": "16:05",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "20:20",
+        "arr_time_utc": "18:20",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 199,
+        "updated": "2026-03-25T20:00:25.000Z",
+        "days": [
+          "wed"
+        ]
+      },
+      "LY443_18:46_sun": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "443",
+        "flight_iata": "LY443",
+        "flight_icao": "ELY443",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": null,
+        "dep_time": "18:46",
+        "dep_time_utc": "16:46",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "20:55",
+        "arr_time_utc": "18:55",
+        "duration": null,
+        "aircraft_icao": null,
+        "counter": 69,
+        "updated": "2026-03-22T20:00:00.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "LY445_01:40_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "445",
+        "flight_iata": "LY445",
+        "flight_icao": "ELY445",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "01:40",
+        "dep_time_utc": "23:40",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "03:55",
+        "arr_time_utc": "01:55",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 252,
+        "updated": "2026-03-27T03:00:53.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY447_15:05_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "447",
+        "flight_iata": "LY447",
+        "flight_icao": "ELY447",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:05",
+        "dep_time_utc": "12:05",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "16:20",
+        "arr_time_utc": "14:20",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 273,
+        "updated": "2026-03-27T16:00:36.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY541_00:27_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "541",
+        "flight_iata": "LY541",
+        "flight_icao": "ELY541",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:27",
+        "dep_time_utc": "22:27",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "01:45",
+        "arr_time_utc": "23:45",
+        "duration": 78,
+        "aircraft_icao": null,
+        "counter": 64,
+        "updated": "2026-03-25T02:00:44.000Z",
+        "days": [
+          "wed"
+        ]
+      },
+      "LY541_03:09_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "541",
+        "flight_iata": "LY541",
+        "flight_icao": "ELY541",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "03:09",
+        "dep_time_utc": "00:09",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "03:05",
+        "arr_time_utc": "01:05",
+        "duration": null,
+        "aircraft_icao": null,
+        "counter": 74,
+        "updated": "2026-03-27T04:02:26.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY541_06:40_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "541",
+        "flight_iata": "LY541",
+        "flight_icao": "ELY541",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:40",
+        "dep_time_utc": "04:40",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "08:55",
+        "arr_time_utc": "06:55",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 52372,
+        "updated": "2026-03-15T08:00:14.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "LY541_06:50_mon_sun_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "541",
+        "flight_iata": "LY541",
+        "flight_icao": "ELY541",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:50",
+        "dep_time_utc": "04:50",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "09:05",
+        "arr_time_utc": "07:05",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 16324,
+        "updated": "2026-03-23T09:01:36.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "thu"
+        ]
+      },
+      "LY543_14:25_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "543",
+        "flight_iata": "LY543",
+        "flight_icao": "ELY543",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "14:25",
+        "dep_time_utc": "12:25",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "16:15",
+        "arr_time_utc": "14:15",
+        "duration": 110,
+        "aircraft_icao": null,
+        "counter": 988,
+        "updated": "2026-03-26T17:02:02.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "LY543_15:20_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "543",
+        "flight_iata": "LY543",
+        "flight_icao": "ELY543",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "15:20",
+        "dep_time_utc": "12:20",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "16:35",
+        "arr_time_utc": "14:35",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 355,
+        "updated": "2026-03-27T16:00:36.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY543_19:05_mon_sun_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "543",
+        "flight_iata": "LY543",
+        "flight_icao": "ELY543",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "19:05",
+        "dep_time_utc": "17:05",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "21:20",
+        "arr_time_utc": "19:20",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 48325,
+        "updated": "2026-03-23T21:00:44.000Z",
+        "days": [
+          "mon",
+          "sun",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY545_01:07_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "545",
+        "flight_iata": "LY545",
+        "flight_icao": "ELY545",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": null,
+        "dep_time": "01:07",
+        "dep_time_utc": "23:07",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "02:10",
+        "arr_time_utc": "00:10",
+        "duration": null,
+        "aircraft_icao": null,
+        "counter": 46,
+        "updated": "2026-03-26T03:01:33.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "LY547_02:50_tue": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "547",
+        "flight_iata": "LY547",
+        "flight_icao": "ELY547",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "02:50",
+        "dep_time_utc": "00:50",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "05:05",
+        "arr_time_utc": "03:05",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 56,
+        "updated": "2026-03-24T04:59:59.000Z",
+        "days": [
+          "tue"
+        ]
+      },
+      "LY547_08:50_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "547",
+        "flight_iata": "LY547",
+        "flight_icao": "ELY547",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "08:50",
+        "dep_time_utc": "05:50",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "10:05",
+        "arr_time_utc": "08:05",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 1688,
+        "updated": "2026-03-27T10:00:39.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY821_03:45_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "821",
+        "flight_iata": "LY821",
+        "flight_icao": "ELY821",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "03:45",
+        "dep_time_utc": "01:45",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "05:55",
+        "arr_time_utc": "03:55",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 10,
+        "updated": "2026-03-19T05:09:05.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "LY831_21:10_sun": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "831",
+        "flight_iata": "LY831",
+        "flight_icao": "ELY831",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "21:10",
+        "dep_time_utc": "19:10",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "23:20",
+        "arr_time_utc": "21:20",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 43,
+        "updated": "2026-03-15T23:00:09.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "LY833_07:00_thu": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "833",
+        "flight_iata": "LY833",
+        "flight_icao": "ELY833",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "07:00",
+        "dep_time_utc": "05:00",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "09:10",
+        "arr_time_utc": "07:10",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 39,
+        "updated": "2026-03-19T09:01:34.000Z",
+        "days": [
+          "thu"
+        ]
+      },
+      "LY845_09:30_mon": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "845",
+        "flight_iata": "LY845",
+        "flight_icao": "ELY845",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "09:30",
+        "dep_time_utc": "07:30",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "11:45",
+        "arr_time_utc": "09:45",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 58,
+        "updated": "2026-03-23T11:01:57.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "LY847_06:45_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "847",
+        "flight_iata": "LY847",
+        "flight_icao": "ELY847",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:45",
+        "dep_time_utc": "03:45",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "08:00",
+        "arr_time_utc": "06:00",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 55,
+        "updated": "2026-03-27T08:00:31.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY851_03:45_mon": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "851",
+        "flight_iata": "LY851",
+        "flight_icao": "ELY851",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "03:45",
+        "dep_time_utc": "01:45",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "05:55",
+        "arr_time_utc": "03:55",
+        "duration": 130,
+        "aircraft_icao": null,
+        "counter": 40,
+        "updated": "2026-03-16T06:01:50.000Z",
+        "days": [
+          "mon"
+        ]
+      },
+      "LY851_04:00_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "851",
+        "flight_iata": "LY851",
+        "flight_icao": "ELY851",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "04:00",
+        "dep_time_utc": "02:00",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "06:15",
+        "arr_time_utc": "04:15",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 59,
+        "updated": "2026-03-20T05:59:58.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY855_10:45_fri": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "855",
+        "flight_iata": "LY855",
+        "flight_icao": "ELY855",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "10:45",
+        "dep_time_utc": "08:45",
+        "arr_iata": "ATH",
+        "arr_icao": "LGAV",
+        "arr_terminals": null,
+        "arr_time": "13:00",
+        "arr_time_utc": "11:00",
+        "duration": 135,
+        "aircraft_icao": null,
+        "counter": 55,
+        "updated": "2026-03-20T13:00:36.000Z",
+        "days": [
+          "fri"
+        ]
+      },
+      "LY9601_14:10_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9601",
+        "flight_iata": "LY9601",
+        "flight_icao": "ELY9601",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY594",
+        "cs_flight_number": "594",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "14:10",
+        "dep_time_utc": "12:10",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "19:10",
+        "arr_time_utc": "15:10",
+        "duration": 180,
+        "aircraft_icao": null,
+        "counter": 43221,
+        "updated": "2026-03-14T17:00:31.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY9606_06:45_sat": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9606",
+        "flight_iata": "LY9606",
+        "flight_icao": "ELY9606",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY596",
+        "cs_flight_number": "596",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:45",
+        "dep_time_utc": "04:45",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "11:40",
+        "arr_time_utc": "07:40",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 3024,
+        "updated": "2026-03-14T09:00:46.000Z",
+        "days": [
+          "sat"
+        ]
+      },
+      "LY9606_07:00_fri_mon_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9606",
+        "flight_iata": "LY9606",
+        "flight_icao": "ELY9606",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY596",
+        "cs_flight_number": "596",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "07:00",
+        "dep_time_utc": "05:00",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "11:55",
+        "arr_time_utc": "07:55",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 41335,
+        "updated": "2026-03-13T08:59:59.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY9607_19:30_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9607",
+        "flight_iata": "LY9607",
+        "flight_icao": "ELY9607",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY598",
+        "cs_flight_number": "598",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "19:30",
+        "dep_time_utc": "17:30",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "00:25",
+        "arr_time_utc": "20:25",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 41649,
+        "updated": "2026-03-14T21:59:58.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY9612_00:55_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9612",
+        "flight_iata": "LY9612",
+        "flight_icao": "ELY9612",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY600",
+        "cs_flight_number": "600",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:55",
+        "dep_time_utc": "22:55",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "05:50",
+        "arr_time_utc": "01:50",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 51085,
+        "updated": "2026-03-14T03:01:05.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY9613_06:20_fri_mon_sat_sun_thu_tue_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9613",
+        "flight_iata": "LY9613",
+        "flight_icao": "ELY9613",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY610",
+        "cs_flight_number": "610",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "06:20",
+        "dep_time_utc": "04:20",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "11:15",
+        "arr_time_utc": "07:15",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 15703,
+        "updated": "2026-03-14T09:00:46.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sat",
+          "sun",
+          "thu",
+          "tue",
+          "wed"
+        ]
+      },
+      "LY9615_00:15_fri_mon_sun_wed": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9615",
+        "flight_iata": "LY9615",
+        "flight_icao": "ELY9615",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY608",
+        "cs_flight_number": "608",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "00:15",
+        "dep_time_utc": "22:15",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "05:10",
+        "arr_time_utc": "01:10",
+        "duration": 175,
+        "aircraft_icao": null,
+        "counter": 1709,
+        "updated": "2026-03-13T03:00:02.000Z",
+        "days": [
+          "fri",
+          "mon",
+          "sun",
+          "wed"
+        ]
+      },
+      "LY9615_23:55_sat": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "9615",
+        "flight_iata": "LY9615",
+        "flight_icao": "ELY9615",
+        "cs_airline_iata": "EY",
+        "cs_flight_iata": "EY608",
+        "cs_flight_number": "608",
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": [
+          "3"
+        ],
+        "dep_time": "23:55",
+        "dep_time_utc": "21:55",
+        "arr_iata": "AUH",
+        "arr_icao": "OMAA",
+        "arr_terminals": [
+          "A"
+        ],
+        "arr_time": "05:00",
+        "arr_time_utc": "01:00",
+        "duration": 185,
+        "aircraft_icao": null,
+        "counter": 357,
+        "updated": "2026-03-01T03:00:20.000Z",
+        "days": [
+          "sat"
+        ]
+      },
+      "LY1263_00:06_sun": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "1263",
+        "flight_iata": "LY1263",
+        "flight_icao": "ELY1263",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": null,
+        "dep_time": "00:06",
+        "dep_time_utc": "22:06",
+        "arr_iata": "BBU",
+        "arr_icao": "LRBS",
+        "arr_terminals": null,
+        "arr_time": "02:43",
+        "arr_time_utc": "00:43",
+        "duration": 157,
+        "aircraft_icao": null,
+        "counter": 86,
+        "updated": "2026-03-15T02:00:23.000Z",
+        "days": [
+          "sun"
+        ]
+      },
+      "LY1265_02:55_sun": {
+        "airline_iata": "LY",
+        "airline_icao": "ELY",
+        "flight_number": "1265",
+        "flight_iata": "LY1265",
+        "flight_icao": "ELY1265",
+        "cs_airline_iata": null,
+        "cs_flight_iata": null,
+        "cs_flight_number": null,
+        "dep_iata": "TLV",
+        "dep_icao": "LLBG",
+        "dep_terminals": null,
+        "dep_time": "02:55",
+        "dep_time_utc": "00:55",
+        "arr_iata": "BBU",
+        "arr_icao": "LRBS",
+        "arr_terminals": null,
+        "arr_time": "05:31",
+        "arr_time_utc": "03:31",
+        "duration": 156,
+        "aircraft_icao": null,
+        "counter": 88,
+        "updated": "2026-03-15T05:02:02.000Z",
+        "days": [
+          "sun"
+        ]
+      }
+    }
+  }
+}
